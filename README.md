@@ -16,7 +16,19 @@ FIXME: explanation
 
 FIXME: listing of options this app accepts.
 
-## Examples
+## References
+
+Spec:
+https://wiki.theory.org/index.php/BitTorrentSpecification
+
+Super simple client, using libs.
+https://github.com/logaan/bt.clj/blob/master/src/testing_gloss/core.clj
+
+Writing a client to connect to a tracker in Clojure
+http://nakkaya.com/2009/12/03/bittorrent-tracker-protocol/
+
+Bigger client in clojure
+https://github.com/zachallaun/am-interested
 
 ...
 
